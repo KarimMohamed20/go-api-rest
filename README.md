@@ -1,16 +1,23 @@
 # GoApiRest
 Simple example api rest with Gin framework and GORM
 
+
+## Install packages and dependencies 
+
+```
+   $ make get
+```
+
 ## Compile packages and dependencies
 
 ```
-   $ go build src/main.go
+   $ make build
 ```
 
 ## Compile and run Go program
 
 ```
-   $ go run src/main.go
+   $ make run
 ```
 
 ## Getting with Curl 
